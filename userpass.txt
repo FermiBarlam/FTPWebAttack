@@ -1,0 +1,4 @@
+user1:yolo
+admin:admin
+fail:sux
+tryagain:secret

